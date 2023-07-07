@@ -60,7 +60,7 @@ Violet: If its chronic headache peaks, it may exhibit odd powers. It seems unabl
 
 Golduck
 Scarlet: When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.
-Violet: It swims gracefully along on the quiet, slow- moving rivers and lakes of which it is so fond.
+Violet: It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond.
 
 Mankey
 Scarlet: It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.
@@ -1219,7 +1219,7 @@ Scarlet: Salazzle makes its opponents light-headed with poisonous gas, then capt
 Violet: When two Salazzle meet, they will use their pheromone gas to fight over the males in each otherÕs group.
 
 Bounsweet
-Scarlet: Its sweat is sweet, like syrup made from boiled- down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.
+Scarlet: Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.
 Violet: A Greedent drawn in by the sweet scent of these PokŽmon will tuck the Bounsweet in among the berries in its tail and carry them all away.
 
 Steenee
@@ -1448,7 +1448,7 @@ Violet: The hardness of FloragatoÕs fur depends on the PokŽmonÕs mood. When F
 
 Meowscarada
 Scarlet: This PokŽmon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.
-Violet: With skillful misdirection, it rigs foes with pollen- packed flower bombs. Meowscarada sets off the bombs before its foes realize whatÕs going on.
+Violet: With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize whatÕs going on.
 
 Fuecoco
 Scarlet: It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
