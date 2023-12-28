@@ -1787,84 +1787,84 @@ Scarlet: If Rufflet attacks this Pokémon by pecking at it, it will retaliate wi
 Violet: Spewpa doesn’t live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve.
 
 Vivillon (Archipelago Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from frigid lands.
-Violet: This Pokémon was born in frigid lands. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from places with many islands.
+Violet: This Pokémon was born in a place with many islands. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Continental Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from snowy lands.
-Violet: This Pokémon was born in a snowy land. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Elegant Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of severe cold.
-Violet: This Pokémon was born in a land of severe cold. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Fancy Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of vast space.
 Violet: This Pokémon was born in a land of vast space. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Elegant Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with distinct seasons.
+Violet: This Pokémon was born in a land with distinct seasons. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Fancy Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from a mysterious land.
+Violet: This Pokémon was born in a mysterious land. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Garden Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from verdant lands.
 Violet: This Pokémon was born in a verdant land. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (High Plains Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with distinct seasons.
-Violet: This Pokémon was born in a land with distinct seasons. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with little rain.
+Violet: This Pokémon was born in a land with little rain. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Icy Snow Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where flowers bloom.
-Violet: This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from frigid lands.
+Violet: This Pokémon was born in frigid lands. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Jungle Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from sun-drenched lands.
-Violet: This Pokémon was born in a sun-drenched land. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of tropical rain forests.
+Violet: This Pokémon was born in a land of tropical rain forests. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Marine Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with ocean breezes.
 Violet: This Pokémon was born in a land with ocean breezes. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Meadow Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from places with many islands.
-Violet: This Pokémon was born in a place with many islands. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where flowers bloom.
+Violet: This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Modern Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with little rain.
-Violet: This Pokémon was born in a land with little rain. It scatters colorful, toxic scales from its wings during battle.
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from sun-drenched lands.
+Violet: This Pokémon was born in a sun-drenched land. It scatters colorful, toxic scales from its wings during battle.
 
 Vivillon (Monsoon Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from parched lands.
-Violet: This Pokémon was born in a parched land. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Ocean Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where large rivers flow.
-Violet: This Pokémon was born in a land where large rivers flow. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Poké Ball Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with intense rainfall.
 Violet: This Pokémon was born in a land with intense rainfall. It scatters colorful, toxic scales from its wings during battle.
 
-Vivillon (Polar Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with a tropical climate.
-Violet: This Pokémon was born in a land with a tropical climate. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (River Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands bathed in light.
-Violet: This Pokémon was born in a land bathed in light. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Sandstorm Pattern)
+Vivillon (Ocean Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of perpetual summer.
 Violet: This Pokémon was born in a land of perpetual summer. It scatters colorful, toxic scales from its wings during battle.
 
-Vivillon (Savanna Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of tropical rain forests.
-Violet: This Pokémon was born in a land of tropical rain forests. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Sun Pattern)
-Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from a mysterious land.
-Violet: This Pokémon was born in a mysterious land. It scatters colorful, toxic scales from its wings during battle.
-
-Vivillon (Tundra Pattern)
+Vivillon (Poké Ball Pattern)
 Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from a special land.
 Violet: This Pokémon was born in a special land. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Polar Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from snowy lands.
+Violet: This Pokémon was born in a snowy land. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (River Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands where large rivers flow.
+Violet: This Pokémon was born in a land where large rivers flow. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Sandstorm Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from parched lands.
+Violet: This Pokémon was born in a parched land. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Savanna Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands with a tropical climate.
+Violet: This Pokémon was born in a land with a tropical climate. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Sun Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands bathed in light.
+Violet: This Pokémon was born in a land bathed in light. It scatters colorful, toxic scales from its wings during battle.
+
+Vivillon (Tundra Pattern)
+Scarlet: The patterns on this Pokémon depend on the climate and topography of the land it was born in. This form is from lands of severe cold.
+Violet: This Pokémon was born in a land of severe cold. It scatters colorful, toxic scales from its wings during battle.
 
 Litleo
 Scarlet: When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.
