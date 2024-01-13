@@ -927,7 +927,7 @@ Sword: It uses its docile-looking face to lull foes into complacency, then bites
 Shield: It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.
 
 Aron
-Sword: It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.
+Sword: It eats iron ore—and sometimes railroad tracks—to build up the steel armor that protects its body.
 Shield: When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives.
 
 Lairon
@@ -1316,7 +1316,7 @@ Shield: In terms of electrical-energy output, Electivire is one of the best amon
 
 Magmortar
 Sword: When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.
-Shield: Living in the crater of a volcano has caused this Pokémon’s body to resemble its environment— it has an organ similar to a magma chamber.
+Shield: Living in the crater of a volcano has caused this Pokémon’s body to resemble its environment—it has an organ similar to a magma chamber.
 
 Togekiss
 Sword: These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.
@@ -1344,7 +1344,7 @@ Shield: Sharply attuned to others’ wishes for help, this Pokémon seeks out th
 
 Dusknoir
 Sword: At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.
-Shield: With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.
+Shield: With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten—Dusknoir disgorges the body before departing.
 
 Froslass
 Sword: After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls.
@@ -1407,7 +1407,7 @@ Sword: When dark mists emanate from its body, don’t get too near. If you do, y
 Shield: It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.
 
 Pidove
-Sword: Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once.
+Sword: Where people go, these Pokémon follow. If you’re scattering food for them, be careful—several hundred of them can gather at once.
 Shield: It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.
 
 Tranquill
@@ -1420,7 +1420,6 @@ Shield: This Pokémon is intelligent and intensely proud. People will sit up and
 
 Unfezant (Female)
 Sword: Females of this species are very capable fliers, particularly notable for their stamina. They also take longer to adjust to people.
-Shield: This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.
 
 Roggenrola
 Sword: It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.
@@ -1432,7 +1431,7 @@ Shield: It relies on sound in order to monitor what’s in its vicinity. When an
 
 Gigalith
 Sword: This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.
-Shield: Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.
+Shield: Although its energy blasts can blow away a dump truck, they have a limitation—they can only be fired when the sun is out.
 
 Woobat
 Sword: While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.
@@ -1515,7 +1514,7 @@ Sword: It’s believed that even first-rate gardeners have a hard time getting t
 Shield: Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive.
 
 Basculin (Red-Striped Form)
-Sword: Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.
+Sword: Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch—many people release them into lakes illicitly.
 Shield: In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it’s more popular with the youth.
 
 Basculin (Blue-Striped Form)
@@ -1554,7 +1553,7 @@ Galarian Darmanitan
 Sword: On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.
 Shield: Though it has a gentle disposition, it's also very strong. It will quickly freeze the snowball on its head before going for a headbutt.
 
-Darmanitan (Galarian Zen Mode)
+Galarian Darmanitan (Zen Mode)
 Sword: Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.
 Shield: Darmanitan takes this form when enraged. It won't stop spewing flames until its rage has settled, even if its body starts to melt.
 
@@ -1680,7 +1679,7 @@ Shield: This Pokémon absolutely loves sweet berries. Sometimes it stuffs its ch
 
 Karrablast
 Sword: Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.
-Shield: It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.
+Shield: It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell—it eats only the contents.
 
 Escavalier
 Sword: They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region.
@@ -1755,7 +1754,7 @@ Shield: It lurks in cities, pretending to be a lamp. Once it finds someone whose
 
 Chandelure
 Sword: This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.
-Shield: In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.
+Shield: In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence—or so it’s said.
 
 Axew
 Sword: These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other’s strength.
