@@ -1475,7 +1475,7 @@ Scarlet: This gentle Pokémon has strong protective instincts. The leaves on its
 Violet: It fashions clothing from woven leaves. Though gentle in disposition, it will show no mercy to foes who target young Pokémon.
 
 Cottonee
-Scarlet: Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.
+Scarlet: Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy—altogether top quality.
 Violet: When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.
 
 Whimsicott
@@ -2000,7 +2000,7 @@ Violet: Goomy’s horns are excellent sensory organs that cover all five of Goom
 
 Sliggoo
 Scarlet: The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.
-Violet: When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated— it’ll dissolve anything.
+Violet: When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated—it’ll dissolve anything.
 
 Goodra
 Scarlet: It loves the rain. This mellow Pokémon can be seen walking around on the plains and in the mountains on rainy days.
@@ -2215,7 +2215,7 @@ Scarlet: This Pokémon battles by throwing hard berries. It won’t obey a Train
 Violet: The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group.
 
 Sandygast
-Scarlet: If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.
+Scarlet: If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.
 Violet: It flings sand into the eyes of its prey and tries to close in on them while they’re blinded, but since Sandygast is so slow, the prey tends to escape.
 
 Palossand
@@ -2255,7 +2255,7 @@ Scarlet: It gets into fistfights so intense that the scales on its arms peel off
 Violet: It fires itself up by striking its scales with force as it dances. Its roar is a battle cry.
 
 Kommo-o
-Scarlet: It lets its arm hang, and then—quick as a flash— swings upward to land its specialty punch and send the opponent flying high into the sky.
+Scarlet: It lets its arm hang, and then—quick as a flash—swings upward to land its specialty punch and send the opponent flying high into the sky.
 Violet: It bashes its scales to test its opponents’ mettle. The sound of struck Kommo-o scales frightens weaker foes and sends them running.
 
 Grookey
@@ -2819,7 +2819,7 @@ Scarlet: It is said that this Pokémon was born when an unknown poison Pokémon 
 Violet: The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
 
 Revavroom
-Scarlet: It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.
+Scarlet: It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.
 Violet: Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.
 
 Cyclizar
