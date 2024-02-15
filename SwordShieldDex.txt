@@ -330,7 +330,7 @@ Magneton
 Sword: This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.
 Shield: This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.
 
-Farfetch’d
+Farfetch'd
 Sword: The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.
 Shield: They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.
 
@@ -2700,7 +2700,7 @@ Cursola
 Sword: Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.
 Shield: Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.
 
-Sirfetch’d
+Sirfetch'd
 Sword: Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
 Shield: After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.
 

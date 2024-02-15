@@ -95,7 +95,8 @@ Arbok
 The frightening patterns on its belly have been studied. Six variations have been confirmed.
 
 Pikachu
-This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.
+Yellow: It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.
+Let's Go Pikachu/Eevee: This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.
 
 Raichu
 When electricity builds up inside its body, it becomes feisty. It also glows in the dark.
@@ -310,8 +311,8 @@ It is hatched with the ability to defy gravity. It floats while emitting powerfu
 Magneton
 Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.
 
-Farfetch’d
-They live where reedy plants grow. Farfetch’d are rarely seen, so it’s thought their numbers are decreasing.
+Farfetch'd
+They live where reedy plants grow. Farfetch'd are rarely seen, so it’s thought their numbers are decreasing.
 
 Doduo
 Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.
@@ -485,7 +486,8 @@ Ditto
 When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.
 
 Eevee
-It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.
+Yellow: Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.
+Let's Go Pikachu/Eevee: It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.
 
 Vaporeon
 Its cell structure is similar to water molecules. It melts into the water and becomes invisible.
